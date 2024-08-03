@@ -1,0 +1,14 @@
+{
+  "_template": "Fault injection profile",
+  "project": "bldc-foc-telemetry",
+  "purpose": "Configuration template for 48 V BLDC field-oriented control and regenerative-braking telemetry",
+  "status": "template_only_not_a_validated_operating_profile",
+  "source_of_truth": "Confirm supported keys against the current implementation before use.",
+  "parameters": {},
+  "metadata": {
+    "revision": "",
+    "created_utc": "",
+    "owner": "",
+    "notes": "Do not use for hardware deployment until reviewed."
+  }
+}
