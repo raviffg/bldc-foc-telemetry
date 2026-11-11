@@ -25,10 +25,3 @@ analysis scripts only.
 
 Fixed point path is not wired yet, everything runs in float on the G4.
 Clarke assumes balanced phases, see TODO before enabling regen in production.
-
-
-## Expanded project documentation
-
-The `docs/` directory contains project-specific design notes, verification scenario specifications, operations guides, data contracts, configuration templates, safety notes, and project reference templates.
-
-**Important:** added documents are planning and review aids. They do not claim that tests have been executed, that placeholder configurations are supported runtime profiles, or that this project is certified for physical/clinical/production deployment. Confirm interfaces and limits against implementation and measured evidence.
